@@ -1,0 +1,7 @@
+This is how to build Wurd on a Linux system:
+
+1. Download the Linux skeleton for Wurd and unzip it.
+2. To build the program, change into the Wurd directory and type
+	make
+3. To run the program, type
+	./wurd
