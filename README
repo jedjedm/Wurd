@@ -3,3 +3,7 @@ This is how to build Wurd on a Linux system:
 	make
 2. To run the program, type
 	./wurd
+
+This project was built using a skeleton provided in a class
+The code I edited to make the program work are the code in the
+files that start with "Student"
